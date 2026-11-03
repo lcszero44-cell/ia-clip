@@ -1,0 +1,2890 @@
+{
+  "schema_version": 1,
+  "language": "pt-BR",
+  "description": "Biblioteca editorial local ClipRush Gamer AI; editável e sem serviços externos.",
+  "minimum_count": 200,
+  "item_count": 239,
+  "category_counts": {
+    "comentarios_fixados": 20,
+    "conjuntos_hashtags": 20,
+    "ctas": 25,
+    "descricoes": 30,
+    "ganchos": 30,
+    "reacoes_acao": 20,
+    "reacoes_cena": 15,
+    "roteiros_narracao": 20,
+    "titulos_acao": 39,
+    "titulos_cena": 20
+  },
+  "updated_at": 1792363441.529363,
+  "items": [
+    {
+      "id": "ganchos_001",
+      "category": "ganchos",
+      "text": "Espera até você ver o que acontece no final.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_002",
+      "category": "ganchos",
+      "text": "Eu achei que essa parte seria tranquila…",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_003",
+      "category": "ganchos",
+      "text": "O jogo mudou tudo em dois segundos.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_004",
+      "category": "ganchos",
+      "text": "Repara no canto da tela antes do susto.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_005",
+      "category": "ganchos",
+      "text": "Esse detalhe passou despercebido na primeira vez.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_006",
+      "category": "ganchos",
+      "text": "Eu não estava preparado para essa virada.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_007",
+      "category": "ganchos",
+      "text": "A decisão mais arriscada da partida foi essa.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_008",
+      "category": "ganchos",
+      "text": "Parece impossível escapar, mas olha só.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_009",
+      "category": "ganchos",
+      "text": "O silêncio antes desse momento é assustador.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_010",
+      "category": "ganchos",
+      "text": "Tudo estava sob controle… até deixar de estar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_011",
+      "category": "ganchos",
+      "text": "Você faria a mesma escolha aqui?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_012",
+      "category": "ganchos",
+      "text": "O plano era simples. O resultado, nem tanto.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_013",
+      "category": "ganchos",
+      "text": "Assiste até o último segundo e me diz se percebeu.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_014",
+      "category": "ganchos",
+      "text": "Uma bala. Um erro. Uma chance.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_015",
+      "category": "ganchos",
+      "text": "Esse foi o momento em que a run quase acabou.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_016",
+      "category": "ganchos",
+      "text": "Eu ouvi o barulho, mas não vi de onde veio.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_017",
+      "category": "ganchos",
+      "text": "Presta atenção na reação do jogo depois disso.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_018",
+      "category": "ganchos",
+      "text": "A melhor parte não foi o tiro — foi o que veio depois.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_019",
+      "category": "ganchos",
+      "text": "Por um instante, eu achei que tinha perdido tudo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_020",
+      "category": "ganchos",
+      "text": "A câmera virou e eu já sabia que vinha problema.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_021",
+      "category": "ganchos",
+      "text": "Este corredor nunca pareceu tão longo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_022",
+      "category": "ganchos",
+      "text": "O inventário estava cheio. O perigo, também.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_023",
+      "category": "ganchos",
+      "text": "Quando a munição acaba, cada segundo conta.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_024",
+      "category": "ganchos",
+      "text": "Esse encontro foi muito mais tenso do que parecia.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_025",
+      "category": "ganchos",
+      "text": "Eu quase passei direto por esse detalhe.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_026",
+      "category": "ganchos",
+      "text": "A sorte ajudou, mas a mira teve que acompanhar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_027",
+      "category": "ganchos",
+      "text": "Um segundo de calma antes do caos completo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_028",
+      "category": "ganchos",
+      "text": "O jogo deu uma pista — eu só entendi tarde demais.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_029",
+      "category": "ganchos",
+      "text": "Essa cena merece ser vista sem piscar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ganchos_030",
+      "category": "ganchos",
+      "text": "O que você faria se estivesse no meu lugar?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_001",
+      "category": "titulos_acao",
+      "text": "{evento} no momento perfeito",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_002",
+      "category": "titulos_acao",
+      "text": "A jogada que salvou a run",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_003",
+      "category": "titulos_acao",
+      "text": "Como eu escapei por um fio",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_004",
+      "category": "titulos_acao",
+      "text": "Essa mira não podia falhar",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_005",
+      "category": "titulos_acao",
+      "text": "O combate mais tenso da partida",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_006",
+      "category": "titulos_acao",
+      "text": "Um erro e tudo acabava",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_007",
+      "category": "titulos_acao",
+      "text": "A virada aconteceu em segundos",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_008",
+      "category": "titulos_acao",
+      "text": "O susto que eu não esperava",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_009",
+      "category": "titulos_acao",
+      "text": "A estratégia funcionou no limite",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_010",
+      "category": "titulos_acao",
+      "text": "Quando o plano dá certo por pouco",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_011",
+      "category": "titulos_acao",
+      "text": "A esquiva que mudou a luta",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_012",
+      "category": "titulos_acao",
+      "text": "O momento mais caótico da gameplay",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_013",
+      "category": "titulos_acao",
+      "text": "Essa sequência foi pura adrenalina",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_014",
+      "category": "titulos_acao",
+      "text": "Sem munição e sem espaço para errar",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_015",
+      "category": "titulos_acao",
+      "text": "O inimigo não viu isso chegando",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_016",
+      "category": "titulos_acao",
+      "text": "A reação mais rápida da run",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_017",
+      "category": "titulos_acao",
+      "text": "Uma chance. Uma decisão.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_018",
+      "category": "titulos_acao",
+      "text": "Eu quase perdi esse combate",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_019",
+      "category": "titulos_acao",
+      "text": "A luta virou no último instante",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_020",
+      "category": "titulos_acao",
+      "text": "O golpe que abriu caminho",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_021",
+      "category": "titulos_acao",
+      "text": "O detalhe que decidiu a partida",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_022",
+      "category": "titulos_acao",
+      "text": "Uma jogada limpa no meio do caos",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_023",
+      "category": "titulos_acao",
+      "text": "Essa defesa foi no limite",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_024",
+      "category": "titulos_acao",
+      "text": "O confronto que virou história",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_025",
+      "category": "titulos_acao",
+      "text": "A run ficou por um fio",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_026",
+      "category": "titulos_acao",
+      "text": "O melhor timing que consegui",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_027",
+      "category": "titulos_acao",
+      "text": "Calma, mira e reação rápida",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_028",
+      "category": "titulos_acao",
+      "text": "O jogo apertou — eu respondi",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_029",
+      "category": "titulos_acao",
+      "text": "A sequência que eu queria repetir",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_030",
+      "category": "titulos_acao",
+      "text": "Esse combo saiu sem querer",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_031",
+      "category": "titulos_acao",
+      "text": "Não tinha espaço para recuar",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_032",
+      "category": "titulos_acao",
+      "text": "A mira encontrou o alvo",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_033",
+      "category": "titulos_acao",
+      "text": "A esquiva foi por centímetros",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_034",
+      "category": "titulos_acao",
+      "text": "Como sobreviver a esse ataque",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_035",
+      "category": "titulos_acao",
+      "text": "O plano B salvou tudo",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_036",
+      "category": "titulos_acao",
+      "text": "O clímax dessa batalha chegou",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_037",
+      "category": "titulos_acao",
+      "text": "Essa foi a decisão certa?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_038",
+      "category": "titulos_acao",
+      "text": "O combate não acabou quando parecia",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_acao_039",
+      "category": "titulos_acao",
+      "text": "A jogada que mudou o ritmo",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_001",
+      "category": "titulos_cena",
+      "text": "A cena que mudou o rumo da história",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_002",
+      "category": "titulos_cena",
+      "text": "Você percebeu esse detalhe?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_003",
+      "category": "titulos_cena",
+      "text": "O diálogo que deixou tudo mais tenso",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_004",
+      "category": "titulos_cena",
+      "text": "Essa revelação muda a perspectiva",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_005",
+      "category": "titulos_cena",
+      "text": "Um momento importante da história",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_006",
+      "category": "titulos_cena",
+      "text": "A pausa antes da próxima surpresa",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_007",
+      "category": "titulos_cena",
+      "text": "O que essa cena está tentando nos dizer?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_008",
+      "category": "titulos_cena",
+      "text": "A história ficou ainda mais sombria",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_009",
+      "category": "titulos_cena",
+      "text": "Uma conversa que merece atenção",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_010",
+      "category": "titulos_cena",
+      "text": "A pista estava bem na nossa frente",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_011",
+      "category": "titulos_cena",
+      "text": "Essa passagem explica muita coisa",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_012",
+      "category": "titulos_cena",
+      "text": "O tom da história mudou aqui",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_013",
+      "category": "titulos_cena",
+      "text": "Uma escolha difícil para a protagonista",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_014",
+      "category": "titulos_cena",
+      "text": "O silêncio diz mais que a fala",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_015",
+      "category": "titulos_cena",
+      "text": "Essa revelação me pegou desprevenido",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_016",
+      "category": "titulos_cena",
+      "text": "Um detalhe para lembrar nos próximos capítulos",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_017",
+      "category": "titulos_cena",
+      "text": "Você viu o que apareceu ao fundo?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_018",
+      "category": "titulos_cena",
+      "text": "A história prepara algo maior",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_019",
+      "category": "titulos_cena",
+      "text": "Essa cena ficou na minha cabeça",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "titulos_cena_020",
+      "category": "titulos_cena",
+      "text": "O momento de respirar antes do caos",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_001",
+      "category": "descricoes",
+      "text": "Gameplay sem cortes na tela principal, com foco no momento e no contexto da partida.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_002",
+      "category": "descricoes",
+      "text": "Um trecho da run que merece ser revisto. Qual foi a sua parte favorita?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_003",
+      "category": "descricoes",
+      "text": "Clipes de gameplay e momentos da história em português. Sem webcam, só o jogo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_004",
+      "category": "descricoes",
+      "text": "A tensão foi crescendo até chegar neste instante. Você teria feito diferente?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_005",
+      "category": "descricoes",
+      "text": "Mais um recorte da minha campanha. Deixe sua leitura desse momento nos comentários.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_006",
+      "category": "descricoes",
+      "text": "Uma sequência da gameplay que quase saiu do controle. Veja até o final.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_007",
+      "category": "descricoes",
+      "text": "Registro da partida com HUD preservada e contexto do que aconteceu.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_008",
+      "category": "descricoes",
+      "text": "Este momento mistura estratégia, tensão e uma decisão rápida.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_009",
+      "category": "descricoes",
+      "text": "Trecho da campanha para quem curte ação e survival horror.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_010",
+      "category": "descricoes",
+      "text": "A história avançou e deixou novas perguntas. O que você acha que vem agora?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_011",
+      "category": "descricoes",
+      "text": "Um encontro intenso da run. Sem narração inventada: apenas o áudio original do jogo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_012",
+      "category": "descricoes",
+      "text": "Gameplay local editada para vídeo vertical, mantendo a tela do jogo completa.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_013",
+      "category": "descricoes",
+      "text": "A partida estava tranquila até esta situação aparecer.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_014",
+      "category": "descricoes",
+      "text": "Se você também joga, conta como resolveria este encontro.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_015",
+      "category": "descricoes",
+      "text": "Um momento curto da campanha, preservando o contexto e o áudio do jogo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_016",
+      "category": "descricoes",
+      "text": "Hoje a estratégia foi sobreviver primeiro e entender depois.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_017",
+      "category": "descricoes",
+      "text": "Recorte de gameplay para rever a jogada e aprender com o que aconteceu.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_018",
+      "category": "descricoes",
+      "text": "A cena traz pistas que podem passar batido. Reparou em alguma?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_019",
+      "category": "descricoes",
+      "text": "O jogo criou a tensão; eu só tentei acompanhar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_020",
+      "category": "descricoes",
+      "text": "Partida capturada no PS4 e preparada localmente para Shorts, Reels e TikTok.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_021",
+      "category": "descricoes",
+      "text": "Um clipe da campanha sem webcam e sem esconder a HUD.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_022",
+      "category": "descricoes",
+      "text": "O melhor momento da sequência aparece no gancho. Veja o contexto completo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_023",
+      "category": "descricoes",
+      "text": "Mais um capítulo da gameplay. O que você faria com esses recursos?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_024",
+      "category": "descricoes",
+      "text": "A tensão veio da trilha, do diálogo e do que estava acontecendo na tela.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_025",
+      "category": "descricoes",
+      "text": "Um recorte de jogo para conversar sobre escolhas, detalhes e estratégia.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_026",
+      "category": "descricoes",
+      "text": "Esta sequência ficou ainda melhor quando revi a gravação.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_027",
+      "category": "descricoes",
+      "text": "O momento parece simples, mas muda o ritmo da partida.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_028",
+      "category": "descricoes",
+      "text": "Gameplay narrada pelo próprio jogo, sem webcam e com legendas opcionais.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_029",
+      "category": "descricoes",
+      "text": "Assista e diga se você percebeu a mudança antes de ela acontecer.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "descricoes_030",
+      "category": "descricoes",
+      "text": "Compartilhe com alguém que reconhece este capítulo da campanha.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_001",
+      "category": "ctas",
+      "text": "Comenta: você teria feito diferente?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_002",
+      "category": "ctas",
+      "text": "Qual foi o detalhe que você notou primeiro?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_003",
+      "category": "ctas",
+      "text": "Salva para rever a estratégia depois.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_004",
+      "category": "ctas",
+      "text": "Marca alguém que também jogaria essa parte.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_005",
+      "category": "ctas",
+      "text": "Qual nota você dá para essa sequência, de 0 a 10?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_006",
+      "category": "ctas",
+      "text": "Você já passou por esse encontro? Conta como foi.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_007",
+      "category": "ctas",
+      "text": "Quer ver mais trechos dessa campanha? Deixa o próximo jogo nos comentários.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_008",
+      "category": "ctas",
+      "text": "Escolhe: agir rápido ou esperar mais uma pista?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_009",
+      "category": "ctas",
+      "text": "Comenta qual seria seu plano B.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_010",
+      "category": "ctas",
+      "text": "Se curtiu a gameplay, acompanha os próximos capítulos.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_011",
+      "category": "ctas",
+      "text": "Qual momento te deixou mais tenso?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_012",
+      "category": "ctas",
+      "text": "O que você teria feito com a munição que sobrou?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_013",
+      "category": "ctas",
+      "text": "Reparou na pista escondida? Escreve onde ela aparece.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_014",
+      "category": "ctas",
+      "text": "Marca quem sempre percebe os detalhes antes de todo mundo.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_015",
+      "category": "ctas",
+      "text": "Quer uma análise dessa jogada? Peça nos comentários.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_016",
+      "category": "ctas",
+      "text": "Escolhe o próximo desafio da run.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_017",
+      "category": "ctas",
+      "text": "Compartilha com seu parceiro de survival horror.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_018",
+      "category": "ctas",
+      "text": "Qual parte merece um replay completo?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_019",
+      "category": "ctas",
+      "text": "Conta sua teoria sobre o que acabou de acontecer.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_020",
+      "category": "ctas",
+      "text": "Você prefere cenas da história ou combate?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_021",
+      "category": "ctas",
+      "text": "Se faria diferente, explica seu caminho.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_022",
+      "category": "ctas",
+      "text": "Qual jogo merece o próximo vídeo?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_023",
+      "category": "ctas",
+      "text": "Segue para acompanhar o restante da campanha.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_024",
+      "category": "ctas",
+      "text": "Deixa uma dica para a próxima tentativa.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ctas_025",
+      "category": "ctas",
+      "text": "A gente continua a campanha no próximo clipe.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_001",
+      "category": "comentarios_fixados",
+      "text": "Qual detalhe você percebeu antes de mim?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_002",
+      "category": "comentarios_fixados",
+      "text": "Você teria escolhido a mesma estratégia?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_003",
+      "category": "comentarios_fixados",
+      "text": "Querem a continuação desta parte?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_004",
+      "category": "comentarios_fixados",
+      "text": "Qual nota esse momento merece?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_005",
+      "category": "comentarios_fixados",
+      "text": "Sem spoiler: o que vocês acham que acontece depois?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_006",
+      "category": "comentarios_fixados",
+      "text": "Você joga com qual configuração de dificuldade?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_007",
+      "category": "comentarios_fixados",
+      "text": "Qual foi a melhor decisão dessa sequência?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_008",
+      "category": "comentarios_fixados",
+      "text": "Qual arma você levaria para essa parte?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_009",
+      "category": "comentarios_fixados",
+      "text": "Quem também ficou tenso nessa cena?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_010",
+      "category": "comentarios_fixados",
+      "text": "Qual detalhe do cenário chamou sua atenção?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_011",
+      "category": "comentarios_fixados",
+      "text": "Esse momento foi sorte ou planejamento?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_012",
+      "category": "comentarios_fixados",
+      "text": "Vocês preferem gameplay com legenda ou sem?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_013",
+      "category": "comentarios_fixados",
+      "text": "Qual chefe foi mais difícil para você?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_014",
+      "category": "comentarios_fixados",
+      "text": "Que jogo eu deveria jogar depois dessa campanha?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_015",
+      "category": "comentarios_fixados",
+      "text": "Qual foi seu primeiro pensamento quando isso aconteceu?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_016",
+      "category": "comentarios_fixados",
+      "text": "Dica sem spoiler para quem ainda não chegou aqui?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_017",
+      "category": "comentarios_fixados",
+      "text": "Qual rota você usaria nesta situação?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_018",
+      "category": "comentarios_fixados",
+      "text": "Querem um vídeo com a estratégia completa?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_019",
+      "category": "comentarios_fixados",
+      "text": "O que eu deveria ter feito diferente?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "comentarios_fixados_020",
+      "category": "comentarios_fixados",
+      "text": "Comenta sua teoria sem estragar a surpresa para ninguém.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_001",
+      "category": "reacoes_acao",
+      "text": "HEADSHOT!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_002",
+      "category": "reacoes_acao",
+      "text": "NO LIMITE!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_003",
+      "category": "reacoes_acao",
+      "text": "QUE ESQUIVA!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_004",
+      "category": "reacoes_acao",
+      "text": "COMBO INSANO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_005",
+      "category": "reacoes_acao",
+      "text": "ERA A ÚLTIMA BALA!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_006",
+      "category": "reacoes_acao",
+      "text": "QUASE DEU RUIM!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_007",
+      "category": "reacoes_acao",
+      "text": "MIRA PERFEITA!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_008",
+      "category": "reacoes_acao",
+      "text": "VIRADA ABSURDA!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_009",
+      "category": "reacoes_acao",
+      "text": "DEFESA NO TEMPO CERTO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_010",
+      "category": "reacoes_acao",
+      "text": "AÍ NÃO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_011",
+      "category": "reacoes_acao",
+      "text": "ALVO ENCONTRADO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_012",
+      "category": "reacoes_acao",
+      "text": "SOBREVIVI POR UM FIO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_013",
+      "category": "reacoes_acao",
+      "text": "QUE TIMING!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_014",
+      "category": "reacoes_acao",
+      "text": "PLANO B ATIVADO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_015",
+      "category": "reacoes_acao",
+      "text": "BOSS NO CHÃO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_016",
+      "category": "reacoes_acao",
+      "text": "ESCAPEI!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_017",
+      "category": "reacoes_acao",
+      "text": "SEM ERRO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_018",
+      "category": "reacoes_acao",
+      "text": "AGORA VAI!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_019",
+      "category": "reacoes_acao",
+      "text": "UM SEGUNDO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_acao_020",
+      "category": "reacoes_acao",
+      "text": "QUE PRESSÃO!",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_001",
+      "category": "reacoes_cena",
+      "text": "VOCÊ VIU ISSO?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_002",
+      "category": "reacoes_cena",
+      "text": "A PISTA ESTAVA AÍ",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_003",
+      "category": "reacoes_cena",
+      "text": "ESSA REVELAÇÃO…",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_004",
+      "category": "reacoes_cena",
+      "text": "OLHA O DETALHE",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_005",
+      "category": "reacoes_cena",
+      "text": "AGORA TUDO FAZ SENTIDO",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_006",
+      "category": "reacoes_cena",
+      "text": "UM MOMENTO IMPORTANTE",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_007",
+      "category": "reacoes_cena",
+      "text": "QUE CLIMA…",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_008",
+      "category": "reacoes_cena",
+      "text": "A HISTÓRIA VIROU",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_009",
+      "category": "reacoes_cena",
+      "text": "PRESTA ATENÇÃO",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_010",
+      "category": "reacoes_cena",
+      "text": "O SILÊNCIO DIZ TUDO",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_011",
+      "category": "reacoes_cena",
+      "text": "ISSO MUDA TUDO",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_012",
+      "category": "reacoes_cena",
+      "text": "VAMOS LEMBRAR DISSO",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_013",
+      "category": "reacoes_cena",
+      "text": "QUE CENA",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_014",
+      "category": "reacoes_cena",
+      "text": "UMA NOVA PISTA",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "reacoes_cena_015",
+      "category": "reacoes_cena",
+      "text": "E AGORA?",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_001",
+      "category": "conjuntos_hashtags",
+      "text": "#gameplay #gaming #ps4 #shorts",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_002",
+      "category": "conjuntos_hashtags",
+      "text": "#survivalhorror #gameplayptbr #shorts #ps4",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_003",
+      "category": "conjuntos_hashtags",
+      "text": "#residentevil #re4remake #gameplay #brasil",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_004",
+      "category": "conjuntos_hashtags",
+      "text": "#gamerbr #jogos #gameplay #verticalvideo",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_005",
+      "category": "conjuntos_hashtags",
+      "text": "#youtubeShorts #gameplay #survivalhorror #semwebcam",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_006",
+      "category": "conjuntos_hashtags",
+      "text": "#tiktokgaming #gamingbr #gameplay #ps4",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_007",
+      "category": "conjuntos_hashtags",
+      "text": "#reelsgaming #gameplaybr #jogos #survivalhorror",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_008",
+      "category": "conjuntos_hashtags",
+      "text": "#playstation #ps4 #gaming #gameplay",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_009",
+      "category": "conjuntos_hashtags",
+      "text": "#terror #horror #gameplay #brasil",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_010",
+      "category": "conjuntos_hashtags",
+      "text": "#dicasdegames #estrategia #gameplay #gamerbr",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_011",
+      "category": "conjuntos_hashtags",
+      "text": "#cenasdegames #historiadejogo #gaming #shorts",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_012",
+      "category": "conjuntos_hashtags",
+      "text": "#bossfight #combate #gameplay #gamer",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_013",
+      "category": "conjuntos_hashtags",
+      "text": "#momentosdegames #clips #gamingbr #shorts",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_014",
+      "category": "conjuntos_hashtags",
+      "text": "#streamerbrasil #gameplay #ps4 #gamer",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_015",
+      "category": "conjuntos_hashtags",
+      "text": "#jogosdeacao #survival #gameplayptbr #reels",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_016",
+      "category": "conjuntos_hashtags",
+      "text": "#playstationbrasil #gameplay #shorts #jogos",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_017",
+      "category": "conjuntos_hashtags",
+      "text": "#semspoiler #gameplay #historia #gamerbr",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_018",
+      "category": "conjuntos_hashtags",
+      "text": "#capturadegame #ps4 #clips #gaming",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_019",
+      "category": "conjuntos_hashtags",
+      "text": "#re4 #residentevil4 #survivalhorror #gamerbr",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "conjuntos_hashtags_020",
+      "category": "conjuntos_hashtags",
+      "text": "#aventura #campanha #gameplay #shorts",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_001",
+      "category": "roteiros_narracao",
+      "text": "A ideia era manter distância, observar o padrão e agir quando surgisse uma abertura.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_002",
+      "category": "roteiros_narracao",
+      "text": "Eu entrei com poucos recursos, então cada decisão precisava fazer sentido.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_003",
+      "category": "roteiros_narracao",
+      "text": "A trilha começou a subir e ficou claro que a próxima área não seria tranquila.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_004",
+      "category": "roteiros_narracao",
+      "text": "Antes de avançar, vale olhar o cenário: havia uma pista que quase passou despercebida.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_005",
+      "category": "roteiros_narracao",
+      "text": "A estratégia mudou quando percebi que a rota de volta estava bloqueada.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_006",
+      "category": "roteiros_narracao",
+      "text": "Eu precisava escolher entre gastar munição agora ou guardar para depois.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_007",
+      "category": "roteiros_narracao",
+      "text": "A cena parece calma, mas a informação que ela entrega é importante para a história.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_008",
+      "category": "roteiros_narracao",
+      "text": "O plano foi simples: esperar o ataque, esquivar e usar a abertura.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_009",
+      "category": "roteiros_narracao",
+      "text": "Quando o inimigo mudou o padrão, eu tive que improvisar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_010",
+      "category": "roteiros_narracao",
+      "text": "A tensão não veio só do combate, mas do pouco espaço para escapar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_011",
+      "category": "roteiros_narracao",
+      "text": "Eu achei que tinha entendido a mecânica, até o jogo mudar as regras.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_012",
+      "category": "roteiros_narracao",
+      "text": "Nesse trecho, prestar atenção no áudio foi tão importante quanto olhar a HUD.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_013",
+      "category": "roteiros_narracao",
+      "text": "A munição estava curta, então tentei priorizar os alvos mais próximos.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_014",
+      "category": "roteiros_narracao",
+      "text": "O detalhe no fundo ajuda a explicar por que essa cena parece familiar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_015",
+      "category": "roteiros_narracao",
+      "text": "Eu recuei para ganhar espaço e consegui recuperar o controle da luta.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_016",
+      "category": "roteiros_narracao",
+      "text": "A decisão foi arriscada, mas abriu uma rota melhor para continuar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_017",
+      "category": "roteiros_narracao",
+      "text": "O mais importante aqui é reconhecer o momento certo para não atacar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_018",
+      "category": "roteiros_narracao",
+      "text": "A história deixa uma pergunta no ar, e eu quero ver como isso vai continuar.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_019",
+      "category": "roteiros_narracao",
+      "text": "Depois de rever a gravação, percebi que havia outra saída disponível.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    },
+    {
+      "id": "roteiros_narracao_020",
+      "category": "roteiros_narracao",
+      "text": "Essa foi a última tentativa antes de mudar completamente a estratégia.",
+      "active": true,
+      "platforms": [
+        "shorts",
+        "reels",
+        "tiktok"
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+# Ambientes Python e arquivos compilados
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Dados privados/de grande porte do usuário
+uploads/*
+!uploads/.gitkeep
+models/*
+!models/.gitkeep
+assinaturas/*.wav
+biblioteca/*.json
+!biblioteca/biblioteca_editorial.json
+data/*
+!data/.gitkeep
+musicas/*
+!musicas/.gitkeep
+narracao/*
+!narracao/.gitkeep
+sfx/*
+!sfx/.gitkeep
+
+# Saídas, transientes e logs
+output/*
+!output/.gitkeep
+!output/sessoes/
+output/sessoes/*
+!output/sessoes/.gitkeep
+temp/*
+!temp/.gitkeep
+!temp/cache/
+temp/cache/*
+!temp/cache/.gitkeep
+logs/*
+!logs/.gitkeep
+*.db
+*.db-shm
+*.db-wal
+settings.json
+*.partial.mp4

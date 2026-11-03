@@ -1,0 +1,11 @@
+# Python 3.11 x64 — versões fixas para Windows 10/11 e reprodutibilidade
+numpy==1.26.4
+scipy==1.13.1
+soundfile==0.12.1
+faster-whisper==1.1.1
+ctranslate2==4.4.0
+onnxruntime==1.20.1
+streamlit==1.41.1
+pillow==10.4.0
+pandas==2.2.3
+pyarrow==17.0.0
